@@ -15,7 +15,7 @@ problem-solving, and basic project development.
 - Console-based interaction
 
 **Concepts Used:** loops, lists, strings, if-else, random module  
-**File:** hangman.py
+**File:** CodeAlpha_HangmanGame.py
 
 ---
 
@@ -26,7 +26,7 @@ problem-solving, and basic project development.
 - Saves result to a file
 
 **Concepts Used:** dictionary, arithmetic operations, file handling  
-**File:** stock_portfolio.py
+**File:** CodeAlpha_Stock_Portfolio_Tracker.py
 
 ---
 
@@ -35,7 +35,7 @@ problem-solving, and basic project development.
 - Saves extracted emails into another file
 
 **Concepts Used:** regular expressions, file handling  
-**Files:** email_extractor.py, input.txt
+**Files:** CodeAlpha_Email_Extractor.py, input.txt
 
 ---
 
@@ -44,7 +44,7 @@ problem-solving, and basic project development.
 - Responds to basic user inputs
 
 **Concepts Used:** functions, loops, conditionals  
-**File:** chatbot.py
+**File:** CodeAlpha_Basic_Chatbot.py
 
 ---
 
@@ -55,7 +55,7 @@ problem-solving, and basic project development.
 - Uses switch-case
 
 **Concepts Used:** switch-case, arithmetic operators  
-**File:** calculator.c
+**File:** CodeAlpha_BasicCalculator.c
 
 ---
 
@@ -65,7 +65,7 @@ problem-solving, and basic project development.
 - Matrix transpose
 
 **Concepts Used:** 2D arrays, functions  
-**File:** matrix_operations.c
+**File:** CodeAlpha_MatrixOperation.c
 
 ---
 
@@ -74,7 +74,7 @@ problem-solving, and basic project development.
 - Uses structures and file handling
 
 **Concepts Used:** structures, file handling  
-**File:** student_management.c
+**File:** CodeAlpha_StudentManagementSystem.c
 
 ---
 
@@ -83,7 +83,7 @@ problem-solving, and basic project development.
 - Menu-driven program
 
 **Concepts Used:** functions, loops, structures  
-**File:** banking_system.c
+**File:** CodeAlpha_BankingSystem.c
 
 ---
 ## Author
